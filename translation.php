@@ -12,7 +12,7 @@
  */
 
 // строки для перевода заголовков плагина, чтобы они попали в .po файл.
-__( 'Demo WordPress translation' );
+__( 'Plugin WordPress translation' );
 __( 'Test plugin for learning how to create translations in WordPress' );
 
 // подключение файла перевода
@@ -22,10 +22,19 @@ add_action( 'plugins_loaded', function(){
 	load_plugin_textdomain( 'myl10n', false, dirname( plugin_basename(__FILE__) ) . '/lang' );
 } );
 
+add_action( 'plugins_loaded', 'mpc_init' );
+function mpc_init(){
+	load_plugin_textdomain( 'mpc', false, dirname( plugin_basename( __FILE__ ) ) . '/lang' ); 
+}
+
+// add_action( 'plugins_loaded', function(){
+// 	load_plugin_textdomain( 'mpc', false, dirname(plugin_basename(__FILE__)) . '/lang' ) );
+// });
+
 // страница админки
 add_action( 'admin_menu', function(){
 
-	add_options_page( __('Переводчик','myl10n'), __('Переводчик','myl10n'), 'manage_options', 'myl10n_plugin', function(){
+	add_options_page( __('Translation','myl10n'), __('Translation','myl10n'), 'manage_options', 'myl10n_plugin', function(){
 
 		_nx_noop( '%s noop star','%s noop stars','Контекст _nx_noop','myl10n' );
 		_n_noop( '%s noop star','%s noop stars','myl10n' );
@@ -35,14 +44,14 @@ add_action( 'admin_menu', function(){
 			<h2><?php echo get_admin_page_title() ?></h2>
 		</div>
 
-		<h3><?= __( 'Различные варианты перевода в WordPress.','myl10n') ?></h3>
-		<p class="description"><?= __( 'Функции перевода WordPress.','myl10n') ?></p>
+		<h3><?= __( 'Different variants of translation in WordPress.','myl10n') ?></h3>
+		<p class="description"><?= __( 'WordPress translation functions.','myl10n') ?></p>
 
-		<p>_e() — <?php _e( 'Некоторый текст перевода.','myl10n' ); ?></p>
+		<p>_e() — <?php _e( 'Some translation text.','myl10n' ); ?></p>
 
-		<p>_ex() — <?php _ex( 'Некоторый текст перевода.','Фраза контекста _ex','myl10n' ); ?></p>
+		<p>_ex() — <?php _ex( 'Some translation text.','Фраза контекста _ex','myl10n' ); ?></p>
 
-		<p>_x() — <?php echo _x( 'Некоторый текст перевода.','Контенкст echo _x','myl10n' ); ?></p>
+		<p>_x() — <?php echo _x( 'Some translation text.','Контенкст echo _x','myl10n' ); ?></p>
 
 		<p>_n(1) — <?php printf( _n( '%s star','%s stars', 1, 'myl10n' ), 1 ); ?></p>
 		<p>_n(3) — <?php printf( _n( '%s star','%s stars', 3, 'myl10n' ), 3 ); ?></p>
@@ -52,10 +61,10 @@ add_action( 'admin_menu', function(){
 		<p>_nx(3) — <?php printf( _nx( '%s star','%s stars', 3, 'Фраза контекста для множественного числа _nx','myl10n' ), 3 ); ?></p>
 		<p>_nx(10) — <?php printf( _nx( '%s star','%s stars', 10, 'Фраза контекста для множественного числа _nx','myl10n' ), 10 ); ?></p>
 
-		<p>esc_attr__() — <?php echo esc_attr__('строка 1','myl10n') ?></p>
-		<p>esc_attr_e() — <?php esc_attr_e('строка 2','myl10n') ?></p>
-		<p>esc_html__() — <?php echo esc_html__('строка 3','myl10n') ?></p>
-		<p>esc_html_e() — <?php esc_html_e('строка 4','myl10n') ?></p>
+		<p>esc_attr__() — <?php echo esc_attr__('string 1','myl10n') ?></p>
+		<p>esc_attr_e() — <?php esc_attr_e('string 2','myl10n') ?></p>
+		<p>esc_html__() — <?php echo esc_html__('string 3','myl10n') ?></p>
+		<p>esc_html_e() — <?php esc_html_e('string 4','myl10n') ?></p>
 
 		<?php
 

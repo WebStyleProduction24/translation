@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Переводчик v.0.1\n"
+"POT-Creation-Date: 2019-06-16 22:08+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Евгений <admin@wsp24.ru>\n"
+"Language-Team: Web Style Production 24\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: translation.php:15
+msgid "Plugin WordPress translation"
+msgstr "Демо перевод WordPress"
+
+#: translation.php:16
+msgid "Test plugin for learning how to create translations in WordPress"
+msgstr ""
+"Протестируйте плагин на корректность, как создадите перевод в WordPress"
+
+#: translation.php:28
+msgid "Translation"
+msgstr "Демо перевод"
+
+#: translation.php:30
+#, php-format
+msgctxt "Контекст _nx_noop"
+msgid "%s noop star"
+msgid_plural "%s noop stars"
+msgstr[0] "%s noop контекст-звезда"
+msgstr[1] "%s noop контекст-звезды"
+msgstr[2] "%s noop контекст-звезд"
+
+#: translation.php:31
+#, php-format
+msgid "%s noop star"
+msgid_plural "%s noop stars"
+msgstr[0] "%s noop звезда"
+msgstr[1] "%s noop звезды"
+msgstr[2] "%s noop звезд"
+
+#: translation.php:38
+msgid "Different variants of translation in WordPress."
+msgstr "Различные варианты перевода в WordPress."
+
+#: translation.php:39
+msgid "WordPress translation functions."
+msgstr "Функции перевода WordPress."
+
+#: translation.php:41
+msgid "Some translation text."
+msgstr "Текст перевода."
+
+#: translation.php:43
+msgctxt "Фраза контекста _ex"
+msgid "Some translation text."
+msgstr "Текст перевода (с контекстом 1)."
+
+#: translation.php:45
+msgctxt "Контенкст echo _x"
+msgid "Some translation text."
+msgstr "Текст перевода (с контекстом 2)."
+
+#: translation.php:47 translation.php:48 translation.php:49
+#, php-format
+msgid "%s star"
+msgid_plural "%s stars"
+msgstr[0] "%s звезда"
+msgstr[1] "%s звезды"
+msgstr[2] "%s звезд"
+
+#: translation.php:51 translation.php:52 translation.php:53
+#, php-format
+msgctxt "Фраза контекста для множественного числа _nx"
+msgid "%s star"
+msgid_plural "%s stars"
+msgstr[0] "%s звезда (контекст)"
+msgstr[1] "%s звезды (контекст)"
+msgstr[2] "%s звезд (контекст)"
+
+#: translation.php:55
+msgid "string 1"
+msgstr "строка 1"
+
+#: translation.php:56
+msgid "string 2"
+msgstr "строка 2"
+
+#: translation.php:57
+msgid "string 3"
+msgstr "строка 3"
+
+#: translation.php:58
+msgid "string 4"
+msgstr "строка 4"
