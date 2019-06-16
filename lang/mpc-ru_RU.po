@@ -944,7 +944,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_wc_add_to_cart/mpc_wc_add_to_cart.php:984
 #: ../mpc-massive/./shortcodes/mpc_wc_add_to_cart/mpc_wc_add_to_cart.php:993
 msgid "Tooltip"
-msgstr ""
+msgstr "Подсказка"
 
 #: ../mpc-massive/./panel/panel.php:131
 msgid "WC Add To Cart"
@@ -993,7 +993,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_pagination/mpc_pagination.php:1034
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_products/mpc_wc_grid_products.php:418
 msgid "Pagination"
-msgstr ""
+msgstr "Разбиение на страницы"
 
 #: ../mpc-massive/./panel/panel.php:142
 #: ../mpc-massive/./shortcodes/mpc_ihover/mpc_ihover.php:462
@@ -1580,7 +1580,7 @@ msgstr ""
 
 #: ../mpc-massive/./params/mpc_preset/mpc_preset.php:72
 msgid "Save Pagination Preset"
-msgstr ""
+msgstr "Сохранить настройки разбиения на страницы"
 
 #: ../mpc-massive/./params/mpc_shadow/mpc_shadow.php:41
 msgid "Left Offset"
@@ -1907,7 +1907,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_wc_product/mpc_wc_product.php:1622
 #: ../mpc-massive/./shortcodes/mpc_wc_product/mpc_wc_product.php:1627
 msgid "Title"
-msgstr ""
+msgstr "По заголовку"
 
 #: ../mpc-massive/./shortcodes/mpc_accordion/mpc_accordion.php:75
 msgid "Define title for this accordion section."
@@ -2611,7 +2611,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_wc_product/mpc_wc_product.php:1168
 #: ../mpc-massive/./shortcodes/mpc_wc_product/mpc_wc_product.php:1197
 msgid "Background"
-msgstr ""
+msgstr "Фон"
 
 #: ../mpc-massive/./shortcodes/mpc_alert/mpc_alert.php:443
 msgid "Choose icon background."
@@ -3099,7 +3099,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_row/mpc_row.php:1248
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1296
 msgid "Separator"
-msgstr ""
+msgstr "Разделитель"
 
 #: ../mpc-massive/./shortcodes/mpc_button_set/mpc_button_set.php:261
 msgid "Buttons Set"
@@ -3348,7 +3348,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_categories/mpc_wc_grid_categories.php:182
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_products/mpc_wc_grid_products.php:296
 msgid "Gap"
-msgstr ""
+msgstr "Промежуток"
 
 #: ../mpc-massive/./shortcodes/mpc_carousel_anything/mpc_carousel_anything.php:215
 #: ../mpc-massive/./shortcodes/mpc_carousel_image/mpc_carousel_image.php:556
@@ -3801,7 +3801,7 @@ msgstr "Источник"
 #: ../mpc-massive/./shortcodes/mpc_wc_carousel_products/mpc_wc_carousel_products.php:381
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_products/mpc_wc_grid_products.php:316
 msgid "Data source"
-msgstr ""
+msgstr "Источник данных"
 
 #: ../mpc-massive/./shortcodes/mpc_carousel_posts/mpc_carousel_posts.php:421
 msgid ""
@@ -3838,14 +3838,14 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_wc_carousel_products/mpc_wc_carousel_products.php:426
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_products/mpc_wc_grid_products.php:361
 msgid "Sort by"
-msgstr ""
+msgstr "Сортировать"
 
 #: ../mpc-massive/./shortcodes/mpc_carousel_posts/mpc_carousel_posts.php:466
 #: ../mpc-massive/./shortcodes/mpc_grid_posts/mpc_grid_posts.php:407
 #: ../mpc-massive/./shortcodes/mpc_wc_carousel_products/mpc_wc_carousel_products.php:428
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_products/mpc_wc_grid_products.php:363
 msgid "Select posts sorting parameter."
-msgstr ""
+msgstr "Выберите сортировку записей по параметру"
 
 #: ../mpc-massive/./shortcodes/mpc_carousel_posts/mpc_carousel_posts.php:468
 #: ../mpc-massive/./shortcodes/mpc_grid_posts/mpc_grid_posts.php:409
@@ -3860,14 +3860,14 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_wc_carousel_products/mpc_wc_carousel_products.php:430
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_products/mpc_wc_grid_products.php:365
 msgid "Date"
-msgstr ""
+msgstr "По дате"
 
 #: ../mpc-massive/./shortcodes/mpc_carousel_posts/mpc_carousel_posts.php:469
 #: ../mpc-massive/./shortcodes/mpc_grid_posts/mpc_grid_posts.php:410
 #: ../mpc-massive/./shortcodes/mpc_wc_carousel_products/mpc_wc_carousel_products.php:431
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_products/mpc_wc_grid_products.php:366
 msgid "Order by post ID"
-msgstr ""
+msgstr "Упорядочить записи по ID"
 
 #: ../mpc-massive/./shortcodes/mpc_carousel_posts/mpc_carousel_posts.php:470
 #: ../mpc-massive/./shortcodes/mpc_grid_posts/mpc_grid_posts.php:411
@@ -3879,41 +3879,41 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_wc_carousel_products/mpc_wc_carousel_products.php:432
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_products/mpc_wc_grid_products.php:367
 msgid "Author"
-msgstr ""
+msgstr "По автору"
 
 #: ../mpc-massive/./shortcodes/mpc_carousel_posts/mpc_carousel_posts.php:472
 #: ../mpc-massive/./shortcodes/mpc_grid_posts/mpc_grid_posts.php:413
 #: ../mpc-massive/./shortcodes/mpc_wc_carousel_products/mpc_wc_carousel_products.php:434
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_products/mpc_wc_grid_products.php:369
 msgid "Last modified date"
-msgstr ""
+msgstr "По дате последнего изменения"
 
 #: ../mpc-massive/./shortcodes/mpc_carousel_posts/mpc_carousel_posts.php:473
 #: ../mpc-massive/./shortcodes/mpc_grid_posts/mpc_grid_posts.php:414
 #: ../mpc-massive/./shortcodes/mpc_wc_carousel_products/mpc_wc_carousel_products.php:435
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_products/mpc_wc_grid_products.php:370
 msgid "Number of comments"
-msgstr ""
+msgstr "По количеству комментариев"
 
 #: ../mpc-massive/./shortcodes/mpc_carousel_posts/mpc_carousel_posts.php:474
 #: ../mpc-massive/./shortcodes/mpc_grid_posts/mpc_grid_posts.php:415
 #: ../mpc-massive/./shortcodes/mpc_wc_carousel_products/mpc_wc_carousel_products.php:436
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_products/mpc_wc_grid_products.php:371
 msgid "Random order"
-msgstr ""
+msgstr "В произвольном порядке"
 
 #: ../mpc-massive/./shortcodes/mpc_carousel_posts/mpc_carousel_posts.php:486
 #: ../mpc-massive/./shortcodes/mpc_grid_posts/mpc_grid_posts.php:427
 #: ../mpc-massive/./shortcodes/mpc_wc_carousel_products/mpc_wc_carousel_products.php:447
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_products/mpc_wc_grid_products.php:382
 msgid "Order"
-msgstr ""
+msgstr "Порядок"
 
 #: ../mpc-massive/./shortcodes/mpc_carousel_posts/mpc_carousel_posts.php:488
 #: ../mpc-massive/./shortcodes/mpc_grid_posts/mpc_grid_posts.php:429
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_products/mpc_wc_grid_products.php:384
 msgid "Select posts sorting order."
-msgstr ""
+msgstr "Выберите порядок сортировки записей."
 
 #: ../mpc-massive/./shortcodes/mpc_carousel_posts/mpc_carousel_posts.php:491
 #: ../mpc-massive/./shortcodes/mpc_grid_posts/mpc_grid_posts.php:432
@@ -3922,7 +3922,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_categories/mpc_wc_grid_categories.php:234
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_products/mpc_wc_grid_products.php:386
 msgid "Descending"
-msgstr ""
+msgstr "Убывающий"
 
 #: ../mpc-massive/./shortcodes/mpc_carousel_posts/mpc_carousel_posts.php:492
 #: ../mpc-massive/./shortcodes/mpc_grid_posts/mpc_grid_posts.php:433
@@ -3931,7 +3931,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_categories/mpc_wc_grid_categories.php:235
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_products/mpc_wc_grid_products.php:387
 msgid "Ascending"
-msgstr ""
+msgstr "Возрастающий"
 
 #: ../mpc-massive/./shortcodes/mpc_carousel_posts/mpc_carousel_posts.php:503
 #: ../mpc-massive/./shortcodes/mpc_wc_carousel_products/mpc_wc_carousel_products.php:464
@@ -3947,7 +3947,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_carousel_posts/mpc_carousel_posts.php:522
 #: ../mpc-massive/./shortcodes/mpc_grid_posts/mpc_grid_posts.php:459
 msgid "Include \\ Exclude taxonomies?"
-msgstr ""
+msgstr "Включить\\Исключить таксономии?"
 
 #: ../mpc-massive/./shortcodes/mpc_carousel_posts/mpc_carousel_posts.php:524
 #: ../mpc-massive/./shortcodes/mpc_grid_posts/mpc_grid_posts.php:461
@@ -3957,12 +3957,12 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_carousel_posts/mpc_carousel_posts.php:527
 #: ../mpc-massive/./shortcodes/mpc_grid_posts/mpc_grid_posts.php:464
 msgid "Include"
-msgstr ""
+msgstr "Включить"
 
 #: ../mpc-massive/./shortcodes/mpc_carousel_posts/mpc_carousel_posts.php:528
 #: ../mpc-massive/./shortcodes/mpc_grid_posts/mpc_grid_posts.php:465
 msgid "Exclude"
-msgstr ""
+msgstr "Исключить"
 
 #: ../mpc-massive/./shortcodes/mpc_carousel_posts/mpc_carousel_posts.php:539
 #: ../mpc-massive/./shortcodes/mpc_wc_carousel_products/mpc_wc_carousel_products.php:482
@@ -3984,7 +3984,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_modal/mpc_modal.php:321
 #: ../mpc-massive/./shortcodes/mpc_snippets.php:1237
 msgid "Display"
-msgstr ""
+msgstr "Отображение"
 
 #: ../mpc-massive/./shortcodes/mpc_carousel_slider/mpc_carousel_slider.php:477
 msgid "Slider Height"
@@ -4181,7 +4181,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_row/mpc_row.php:1136
 #: ../mpc-massive/./shortcodes/mpc_row/mpc_row.php:1148
 msgid "Extras"
-msgstr ""
+msgstr "Дополнительно"
 
 #: ../mpc-massive/./shortcodes/mpc_chart/mpc_chart.php:581
 msgid "Marker - Radius"
@@ -4322,7 +4322,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_pricing_box/mpc_pricing_box.php:339
 #: ../mpc-massive/./shortcodes/mpc_snippets.php:1291
 msgid "Columns Number"
-msgstr ""
+msgstr "Количество колонок"
 
 #: ../mpc-massive/./shortcodes/mpc_connected_icons/mpc_connected_icons.php:179
 #: ../mpc-massive/./shortcodes/mpc_pricing_box/mpc_pricing_box.php:342
@@ -5031,7 +5031,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_grid_posts/mpc_grid_posts.php:444
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_products/mpc_wc_grid_products.php:398
 msgid "Items Per Page"
-msgstr ""
+msgstr "Объектов на странице"
 
 #: ../mpc-massive/./shortcodes/mpc_grid_posts/mpc_grid_posts.php:446
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_products/mpc_wc_grid_products.php:400
@@ -6101,7 +6101,7 @@ msgstr ""
 
 #: ../mpc-massive/./shortcodes/mpc_pagination/mpc_pagination.php:1035
 msgid "Pagination buttons"
-msgstr ""
+msgstr "Кнопки разбиения на страницы"
 
 #: ../mpc-massive/./shortcodes/mpc_pricing_box/mpc_pricing_box.php:360
 msgid "Titles"
@@ -6466,7 +6466,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_row/mpc_row.php:1027
 #: ../mpc-massive/./shortcodes/mpc_row/mpc_row.php:1029
 msgid "Toggle Row"
-msgstr ""
+msgstr "Переключатель строки"
 
 #: ../mpc-massive/./shortcodes/mpc_row/mpc_row.php:886
 msgid "Specify settings for toggle row."
@@ -6869,7 +6869,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1728
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1737
 msgid "Read More"
-msgstr ""
+msgstr "Редактировать больше"
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1038
 #: ../mpc-massive/./shortcodes/mpc_wc_category/mpc_wc_category.php:550
@@ -6886,7 +6886,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1125
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1743
 msgid "Post"
-msgstr ""
+msgstr "Запись"
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1075
 msgid "Thumbnail & Overlay"
@@ -7179,7 +7179,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_wc_category/mpc_wc_category.php:845
 #: ../mpc-massive/./shortcodes/mpc_wc_category/mpc_wc_category.php:855
 msgid "Hover State"
-msgstr ""
+msgstr "Вид при наведении курсора"
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1352
 msgid ""
@@ -7357,11 +7357,11 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_snippets.php:193
 #: ../mpc-massive/./shortcodes/mpc_snippets.php:210
 msgid "Animations"
-msgstr ""
+msgstr "Анимации"
 
 #: ../mpc-massive/./shortcodes/mpc_snippets.php:82
 msgid "Loop Type"
-msgstr ""
+msgstr "Тип Цикла"
 
 #: ../mpc-massive/./shortcodes/mpc_snippets.php:93
 #: ../mpc-massive/./shortcodes/mpc_snippets.php:185
@@ -7399,7 +7399,7 @@ msgstr ""
 
 #: ../mpc-massive/./shortcodes/mpc_snippets.php:160
 msgid "Enter Type"
-msgstr ""
+msgstr "Тип Ввода"
 
 #: ../mpc-massive/./shortcodes/mpc_snippets.php:171
 msgid "Offset"
@@ -7529,7 +7529,7 @@ msgstr ""
 
 #: ../mpc-massive/./shortcodes/mpc_snippets.php:872
 msgid "Custom Class"
-msgstr ""
+msgstr "Пользовательские классы CSS"
 
 #: ../mpc-massive/./shortcodes/mpc_snippets.php:875
 msgid "Add your custom class to the element. Mostly used for custom CSS/JS."
@@ -8123,7 +8123,7 @@ msgstr ""
 
 #: ../mpc-massive/./shortcodes/mpc_timeline_item/mpc_timeline_item.php:449
 msgid "Elements Order"
-msgstr ""
+msgstr "Порядок элементов"
 
 #: ../mpc-massive/./shortcodes/mpc_timeline_item/mpc_timeline_item.php:546
 #: ../mpc-massive/./shortcodes/mpc_timeline_item/mpc_timeline_item.php:580
@@ -8593,7 +8593,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_wc_carousel_categories/mpc_wc_carousel_categories.php:303
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_categories/mpc_wc_grid_categories.php:215
 msgid "Order by"
-msgstr ""
+msgstr "Упорядочить"
 
 #: ../mpc-massive/./shortcodes/mpc_wc_carousel_categories/mpc_wc_carousel_categories.php:307
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_categories/mpc_wc_grid_categories.php:219
@@ -8603,12 +8603,12 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_wc_carousel_categories/mpc_wc_carousel_categories.php:308
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_categories/mpc_wc_grid_categories.php:220
 msgid "Order by category ID"
-msgstr ""
+msgstr "Упорядочить категории по ID"
 
 #: ../mpc-massive/./shortcodes/mpc_wc_carousel_categories/mpc_wc_carousel_categories.php:309
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_categories/mpc_wc_grid_categories.php:221
 msgid "Order from Categories field"
-msgstr ""
+msgstr "Порядок полей из категорий"
 
 #: ../mpc-massive/./shortcodes/mpc_wc_carousel_categories/mpc_wc_carousel_categories.php:312
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_categories/mpc_wc_grid_categories.php:224
@@ -9147,7 +9147,7 @@ msgstr ""
 
 #: ../mpc-massive/./shortcodes/mpc_wc_product/mpc_wc_product.php:1410
 msgid "Elements & Order"
-msgstr ""
+msgstr "Элементы и порядок"
 
 #: ../mpc-massive/./shortcodes/mpc_wc_product/mpc_wc_product.php:1431
 msgid "Out Effect"
