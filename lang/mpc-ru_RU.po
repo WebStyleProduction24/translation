@@ -23,18 +23,22 @@ msgid ""
 "<strong>Massive Addons</strong>: Please install and activate WPBakery Page "
 "Builder to use this plugin"
 msgstr ""
+"<strong>Massive Addons</strong>: для использования плагина установите и "
+"активируйте WPBakery Page Builder"
 
 #: ../mpc-massive/./mpc-massive.php:205
 msgid ""
 "<strong>Massive Addons</strong>: Please update WPBakery Page Builder to the "
 "newest version to use this plugin"
 msgstr ""
+"<strong>Massive Addons</strong>: для использования плагина обновите WPBakery "
+"Page Builder до последней версии"
 
 #: ../mpc-massive/./mpc-massive.php:222
 #: ../mpc-massive/./panel/extra/welcome-screen.php:46
 #: ../mpc-massive/./panel/panel.php:302
 msgid "Content Presets"
-msgstr ""
+msgstr "Настройки контента"
 
 #: ../mpc-massive/./mpc-massive.php:250
 msgid ""
@@ -43,6 +47,10 @@ msgid ""
 "otherwise included <strong>Row & Column Addons</strong> will not have a "
 "chance to work."
 msgstr ""
+"<strong>Massive Addons</strong>: свяжитесь с технической поддержкой Вашего "
+"хостинга для включения <strong>php-dom</strong>  расширения в серверных "
+"настройках PHP, иначе включенные <strong>Row & Column Addons</strong> не "
+"смогут работать."
 
 #: ../mpc-massive/./mpc-massive.php:274
 msgid ""
@@ -51,10 +59,14 @@ msgid ""
 "otherwise included <strong>Row & Column Addons</strong> will not have a "
 "chance to work."
 msgstr ""
+"<strong>Massive Addons</strong>: свяжитесь с технической поддержкой Вашего "
+"хостинга для включения <strong>php_mbstring</strong>  расширения в серверных "
+"настройках PHP, иначе включенные <strong>Row & Column Addons</strong> не "
+"смогут работать."
 
 #: ../mpc-massive/./mpc-massive.php:801
 msgid "More"
-msgstr ""
+msgstr "Больше"
 
 #: ../mpc-massive/./mpc-massive.php:802 ../mpc-massive/./panel/panel.php:367
 msgid "Easy Mode"
@@ -63,113 +75,118 @@ msgstr "Упрощенный вид"
 #: ../mpc-massive/./panel/extra/page-installer.php:9
 #: ../mpc-massive/./panel/extra/page-installer.php:36
 msgid "Page Installer"
-msgstr ""
+msgstr "Страница настроек"
 
 #: ../mpc-massive/./panel/extra/page-installer.php:42
 msgid "Templates"
-msgstr ""
+msgstr "Шаблоны"
 
 #: ../mpc-massive/./panel/extra/page-installer.php:44
 #: ../mpc-massive/./panel/panel.php:521
 #: ../mpc-massive/./shortcodes/mpc_snippets.php:652
 #: ../mpc-massive/./shortcodes/mpc_snippets.php:770
 msgid "All"
-msgstr ""
+msgstr "Все"
 
 #: ../mpc-massive/./panel/extra/page-installer.php:45
 msgid "Home"
-msgstr ""
+msgstr "Домашняя"
 
 #: ../mpc-massive/./panel/extra/page-installer.php:46
 msgid "Page"
-msgstr ""
+msgstr "Страница"
 
 #: ../mpc-massive/./panel/extra/page-installer.php:52
 msgid "Something went wrong with reading page templates. Please try again :)"
 msgstr ""
+"Что-топ пошло не так при чтении страницы шаблонов. Пожалуйста, попробуйте "
+"еще раз :)"
 
 #: ../mpc-massive/./panel/extra/page-installer.php:56
 msgid "Page Template"
-msgstr ""
+msgstr "Страница шаблона"
 
 #: ../mpc-massive/./panel/extra/page-installer.php:67
 msgid "Are you sure you want to install selected pages?"
-msgstr ""
+msgstr "Вы уверены, что хотите установить выбранные страницы?"
 
 #: ../mpc-massive/./panel/extra/page-installer.php:68
 msgid "Install"
-msgstr ""
+msgstr "Установка"
 
 #: ../mpc-massive/./panel/extra/page-installer.php:69
 #: ../mpc-massive/./panel/panel.php:607 ../mpc-massive/./panel/panel.php:624
 #: ../mpc-massive/./panel/panel.php:656 ../mpc-massive/./panel/panel.php:673
 msgid "Installing..."
-msgstr ""
+msgstr "Устанавливается..."
 
 #: ../mpc-massive/./panel/extra/page-installer.php:70
 #: ../mpc-massive/./panel/panel.php:608 ../mpc-massive/./panel/panel.php:625
 #: ../mpc-massive/./panel/panel.php:657 ../mpc-massive/./panel/panel.php:674
 msgid "Installed :)"
-msgstr ""
+msgstr "Установлено :)"
 
 #: ../mpc-massive/./panel/extra/page-installer.php:74
 msgid "Use current panel settings"
-msgstr ""
+msgstr "Используйте текущие параметры настройки панели"
 
 #: ../mpc-massive/./panel/extra/page-installer.php:80
 msgid "Something went wrong :(<br>"
-msgstr ""
+msgstr "Что-то пошло не так :(<br>"
 
 #: ../mpc-massive/./panel/extra/page-installer.php:82
 msgid ""
 "Success! You can check newly installed templates at <a target=\"_blank\" "
 "href=\"/wp-admin/edit.php?post_type=page&orderby=date&order=desc\">Pages</a>."
 msgstr ""
+"Успешно! Можно проверить только что установленные шаблоны на <a target="
+"\"_blank\" href=\"/wp-admin/edit.php?post_type=page&orderby=date&order=desc"
+"\">страницах</a>."
 
 #: ../mpc-massive/./panel/extra/system-info.php:9
 #: ../mpc-massive/./panel/extra/system-info.php:68
 msgid "System Info"
-msgstr ""
+msgstr "Системная информация"
 
 #: ../mpc-massive/./panel/extra/system-info.php:73
 msgid "WordPress Environment"
-msgstr ""
+msgstr "Среда WordPress"
 
 #: ../mpc-massive/./panel/extra/system-info.php:79
 msgid "Home URL"
-msgstr ""
+msgstr "Домашний URL"
 
 #: ../mpc-massive/./panel/extra/system-info.php:80
 msgid "The URL of your site's homepage."
-msgstr ""
+msgstr "URL домашней страницы Вашего сайта."
 
 #: ../mpc-massive/./panel/extra/system-info.php:85
 msgid "Site URL"
-msgstr ""
+msgstr "URL сайта"
 
 #: ../mpc-massive/./panel/extra/system-info.php:86
 msgid "The root URL of your site."
-msgstr ""
+msgstr "Корневой URL Вашего сайта."
 
 #: ../mpc-massive/./panel/extra/system-info.php:91
 msgid "Massive Addons Version"
-msgstr ""
+msgstr "Massive Addons версия"
 
 #: ../mpc-massive/./panel/extra/system-info.php:92
 msgid "The version of Massive Addons installed <br/>on your site."
-msgstr ""
+msgstr "Версия Massive Addons установленного <br/>на Вашем сайте."
 
 #: ../mpc-massive/./panel/extra/system-info.php:97
 msgid "WP Version"
-msgstr ""
+msgstr "WP версия"
 
 #: ../mpc-massive/./panel/extra/system-info.php:98
 msgid "The version of WordPress installed on your site."
-msgstr ""
+msgstr "Версия WordPress, установленного на Вашем сайте."
 
 #: ../mpc-massive/./panel/extra/system-info.php:103
 msgid "WP Multisite"
-msgstr ""
+msgstr "WP мультисайт"
 
 #: ../mpc-massive/./panel/extra/system-info.php:104
 msgid "Whether or not you have <br/>WordPress Multisite enabled."
@@ -177,7 +194,7 @@ msgstr ""
 
 #: ../mpc-massive/./panel/extra/system-info.php:109
 msgid "WP Memory Limit"
-msgstr ""
+msgstr "WP лимит памяти"
 
 #: ../mpc-massive/./panel/extra/system-info.php:110
 msgid ""
@@ -238,7 +255,7 @@ msgstr ""
 
 #: ../mpc-massive/./panel/extra/system-info.php:175
 msgid "PHP Post Max Size"
-msgstr ""
+msgstr "Максимальный размер PHP записи"
 
 #: ../mpc-massive/./panel/extra/system-info.php:176
 msgid "The largest filesize that can be <br/>contained in one post."
@@ -246,7 +263,7 @@ msgstr ""
 
 #: ../mpc-massive/./panel/extra/system-info.php:181
 msgid "PHP Time Limit"
-msgstr ""
+msgstr "Лимит времени PHP"
 
 #: ../mpc-massive/./panel/extra/system-info.php:182
 msgid ""
@@ -266,15 +283,15 @@ msgstr ""
 
 #: ../mpc-massive/./panel/extra/system-info.php:196
 msgid "MySQL Version"
-msgstr ""
+msgstr "Версия MySQL"
 
 #: ../mpc-massive/./panel/extra/system-info.php:197
 msgid "The version of MySQL installed on <br/>your hosting server."
-msgstr ""
+msgstr "Версия MySQL установленного <br/>на сервере Вашего хостинга."
 
 #: ../mpc-massive/./panel/extra/system-info.php:208
 msgid "Max Upload Size"
-msgstr ""
+msgstr "Размер максимальной загрузки"
 
 #: ../mpc-massive/./panel/extra/system-info.php:209
 msgid ""
@@ -303,41 +320,41 @@ msgstr ""
 
 #: ../mpc-massive/./panel/extra/system-info.php:263
 msgid "Theme"
-msgstr ""
+msgstr "Тема"
 
 #: ../mpc-massive/./panel/extra/system-info.php:286
 #: ../mpc-massive/./shortcodes/mpc_snippets.php:2715
 msgid "Name"
-msgstr ""
+msgstr "Имя"
 
 #: ../mpc-massive/./panel/extra/system-info.php:287
 msgid "The name of the current active theme."
-msgstr ""
+msgstr "Название текущей активной темы."
 
 #: ../mpc-massive/./panel/extra/system-info.php:292
 msgid "Version"
-msgstr ""
+msgstr "Версия"
 
 #: ../mpc-massive/./panel/extra/system-info.php:293
 msgid "The installed version of the current active theme."
-msgstr ""
+msgstr "Версия установленной текущей активной темы."
 
 #: ../mpc-massive/./panel/extra/system-info.php:299
 #, php-format
 msgid "%s is available"
-msgstr ""
+msgstr "%s доступно"
 
 #: ../mpc-massive/./panel/extra/system-info.php:304
 msgid "Author URL"
-msgstr ""
+msgstr "Автор URL"
 
 #: ../mpc-massive/./panel/extra/system-info.php:305
 msgid "The theme developers URL."
-msgstr ""
+msgstr "URL разработчика темы"
 
 #: ../mpc-massive/./panel/extra/system-info.php:310
 msgid "Child Theme"
-msgstr ""
+msgstr "Дочерняя тема"
 
 #: ../mpc-massive/./panel/extra/system-info.php:311
 msgid "Displays whether or not the current theme <br/>is a child theme."
@@ -350,27 +367,27 @@ msgstr ""
 
 #: ../mpc-massive/./panel/extra/system-info.php:322
 msgid "Parent Theme Name"
-msgstr ""
+msgstr "Родительское имя темы"
 
 #: ../mpc-massive/./panel/extra/system-info.php:323
 msgid "The name of the parent theme."
-msgstr ""
+msgstr "Имя родительской темы."
 
 #: ../mpc-massive/./panel/extra/system-info.php:328
 msgid "Parent Theme Version"
-msgstr ""
+msgstr "Версия родительской темы"
 
 #: ../mpc-massive/./panel/extra/system-info.php:329
 msgid "The installed version of the parent theme."
-msgstr ""
+msgstr "Версия установленной родительской темы."
 
 #: ../mpc-massive/./panel/extra/system-info.php:334
 msgid "Parent Theme Author URL"
-msgstr ""
+msgstr "URL автора родительской темы"
 
 #: ../mpc-massive/./panel/extra/system-info.php:335
 msgid "The parent theme developers URL."
-msgstr ""
+msgstr "URL разработчиков родительской темы."
 
 #: ../mpc-massive/./panel/extra/system-info.php:341
 msgid "MA Support"
@@ -388,11 +405,11 @@ msgstr ""
 
 #: ../mpc-massive/./panel/extra/system-info.php:352
 msgid "Active Plugins"
-msgstr ""
+msgstr "Активные плагины"
 
 #: ../mpc-massive/./panel/extra/system-info.php:377
 msgid "Visit plugin homepage"
-msgstr ""
+msgstr "Посетить домашнюю страницу плагина"
 
 #: ../mpc-massive/./panel/extra/system-info.php:381
 #, php-format
@@ -413,11 +430,11 @@ msgstr ""
 
 #: ../mpc-massive/./panel/extra/system-info.php:407
 msgid "Show Info"
-msgstr ""
+msgstr "Больше информации"
 
 #: ../mpc-massive/./panel/extra/system-info.php:410
 msgid "Get Info File"
-msgstr ""
+msgstr "Получить информационный файл"
 
 #: ../mpc-massive/./panel/extra/system-info.php:417
 msgid "Please paste this in your support ticket :)"
@@ -432,7 +449,7 @@ msgstr ""
 #: ../mpc-massive/./panel/extra/updater.php:49
 #: ../mpc-massive/./panel/panel.php:209 ../mpc-massive/./panel/panel.php:239
 msgid "Massive Panel"
-msgstr ""
+msgstr "Massive Панель"
 
 #: ../mpc-massive/./panel/extra/updater.php:68
 #: ../mpc-massive/./panel/extra/updater.php:73
@@ -444,17 +461,17 @@ msgstr ""
 
 #: ../mpc-massive/./panel/extra/welcome-screen.php:31
 msgid "Welcome"
-msgstr ""
+msgstr "Добро пожаловать"
 
 #: ../mpc-massive/./panel/extra/welcome-screen.php:36
 #: ../mpc-massive/./panel/panel.php:248
 msgid "Settings"
-msgstr ""
+msgstr "Настройки"
 
 #: ../mpc-massive/./panel/extra/welcome-screen.php:41
 #: ../mpc-massive/./panel/panel.php:292
 msgid "Style Presets"
-msgstr ""
+msgstr "Предустановленные настройки стиля"
 
 #: ../mpc-massive/./panel/extra/welcome-screen.php:51
 msgid "Presets Previews"
@@ -462,7 +479,7 @@ msgstr ""
 
 #: ../mpc-massive/./panel/extra/welcome-screen.php:56
 msgid "Ready!"
-msgstr ""
+msgstr "Готово!"
 
 #: ../mpc-massive/./panel/extra/welcome-screen.php:99
 msgid "Massive Addons &rsaquo; Setup Wizard"
@@ -492,7 +509,7 @@ msgstr ""
 
 #: ../mpc-massive/./panel/extra/welcome-screen.php:164
 msgid "Let's Go!"
-msgstr ""
+msgstr "Вперед!"
 
 #: ../mpc-massive/./panel/extra/welcome-screen.php:165
 msgid "Not right now"
@@ -500,7 +517,7 @@ msgstr ""
 
 #: ../mpc-massive/./panel/extra/welcome-screen.php:177
 msgid "Basic Settings"
-msgstr ""
+msgstr "Базовые настройки"
 
 #: ../mpc-massive/./panel/extra/welcome-screen.php:180
 #, php-format
@@ -525,22 +542,22 @@ msgstr ""
 #: ../mpc-massive/./panel/extra/welcome-screen.php:266
 #: ../mpc-massive/./panel/extra/welcome-screen.php:299
 msgid "Next step"
-msgstr ""
+msgstr "Следующий шаг"
 
 #: ../mpc-massive/./panel/extra/welcome-screen.php:237
 #: ../mpc-massive/./panel/extra/welcome-screen.php:272
 #: ../mpc-massive/./panel/extra/welcome-screen.php:305
 #: ../mpc-massive/./panel/panel.php:338
 msgid "Preset"
-msgstr ""
+msgstr "Предустановленная настройка"
 
 #: ../mpc-massive/./panel/extra/welcome-screen.php:257
 msgid "Content Presets Setup"
-msgstr ""
+msgstr "Установить предустановленную настройку контента"
 
 #: ../mpc-massive/./panel/extra/welcome-screen.php:292
 msgid "Presets Previews Setup"
-msgstr ""
+msgstr "Посмотреть предустановленные настройки"
 
 #: ../mpc-massive/./panel/extra/welcome-screen.php:333
 msgid "Massive Addons are ready to use!"
@@ -548,7 +565,7 @@ msgstr ""
 
 #: ../mpc-massive/./panel/extra/welcome-screen.php:338
 msgid "Next Steps"
-msgstr ""
+msgstr "Следующие шаги"
 
 #: ../mpc-massive/./panel/extra/welcome-screen.php:339
 msgid "Create something awesome!"
@@ -587,7 +604,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_accordion/mpc_accordion.php:297
 #: ../mpc-massive/./shortcodes/mpc_accordion/mpc_accordion.php:574
 msgid "Accordion"
-msgstr ""
+msgstr "Аккордион"
 
 #: ../mpc-massive/./panel/panel.php:92 ../mpc-massive/./panel/panel.php:455
 #: ../mpc-massive/./shortcodes/mpc_alert/mpc_alert.php:542
@@ -616,7 +633,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_pricing_box/mpc_pricing_box.php:458
 #: ../mpc-massive/./shortcodes/mpc_pricing_column/mpc_pricing_column.php:324
 msgid "Button"
-msgstr ""
+msgstr "Кнопка"
 
 #: ../mpc-massive/./panel/panel.php:95 ../mpc-massive/./panel/panel.php:147
 #: ../mpc-massive/./panel/panel.php:459
@@ -630,17 +647,17 @@ msgstr ""
 
 #: ../mpc-massive/./panel/panel.php:97 ../mpc-massive/./panel/panel.php:462
 msgid "Carousel Image"
-msgstr ""
+msgstr "Карусель изображений"
 
 #: ../mpc-massive/./panel/panel.php:98 ../mpc-massive/./panel/panel.php:463
 #: ../mpc-massive/./shortcodes/mpc_carousel_posts/mpc_carousel_posts.php:582
 msgid "Carousel Posts"
-msgstr ""
+msgstr "Карусель записей"
 
 #: ../mpc-massive/./panel/panel.php:99 ../mpc-massive/./panel/panel.php:464
 #: ../mpc-massive/./shortcodes/mpc_carousel_slider/mpc_carousel_slider.php:714
 msgid "Carousel Slider"
-msgstr ""
+msgstr "Карусель слайдера"
 
 #: ../mpc-massive/./panel/panel.php:100 ../mpc-massive/./panel/panel.php:468
 #: ../mpc-massive/./shortcodes/mpc_chart/mpc_chart.php:495
@@ -764,7 +781,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_timeline_item/mpc_timeline_item.php:454
 #: ../mpc-massive/./shortcodes/mpc_timeline_item/mpc_timeline_item.php:538
 msgid "Icon"
-msgstr ""
+msgstr "Иконка"
 
 #: ../mpc-massive/./panel/panel.php:109 ../mpc-massive/./panel/panel.php:480
 #: ../mpc-massive/./shortcodes/mpc_icon_list/mpc_icon_list.php:325
@@ -814,7 +831,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_snippets.php:1095
 #: ../mpc-massive/./shortcodes/mpc_testimonial/mpc_testimonial.php:302
 msgid "Image"
-msgstr ""
+msgstr "Изображение"
 
 #: ../mpc-massive/./panel/panel.php:114 ../mpc-massive/./panel/panel.php:487
 #: ../mpc-massive/./shortcodes/mpc_lightbox/mpc_lightbox.php:232
@@ -824,14 +841,14 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_wc_product/mpc_wc_product.php:1024
 #: ../mpc-massive/./shortcodes/mpc_wc_product/mpc_wc_product.php:1223
 msgid "Lightbox"
-msgstr ""
+msgstr "Лайтбокс"
 
 #: ../mpc-massive/./panel/panel.php:115 ../mpc-massive/./panel/panel.php:154
 #: ../mpc-massive/./panel/panel.php:490
 #: ../mpc-massive/./shortcodes/mpc_modal/mpc_modal.php:224
 #: ../mpc-massive/./shortcodes/mpc_modal/mpc_modal.php:478
 msgid "Modal"
-msgstr ""
+msgstr "Модальное окно"
 
 #: ../mpc-massive/./panel/panel.php:116 ../mpc-massive/./panel/panel.php:488
 #: ../mpc-massive/./shortcodes/mpc_mailchimp/mpc_mailchimp.php:517
@@ -862,7 +879,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_progress/mpc_progress.php:564
 #: ../mpc-massive/./shortcodes/mpc_progress/mpc_progress.php:565
 msgid "Progress"
-msgstr ""
+msgstr "Прогресс"
 
 #: ../mpc-massive/./panel/panel.php:121 ../mpc-massive/./panel/panel.php:494
 #: ../mpc-massive/./shortcodes/mpc_quote/mpc_quote.php:407
@@ -901,7 +918,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_tabs/mpc_tabs.php:350
 #: ../mpc-massive/./shortcodes/mpc_tabs/mpc_tabs.php:629
 msgid "Tabs"
-msgstr ""
+msgstr "Закладки"
 
 #: ../mpc-massive/./panel/panel.php:125 ../mpc-massive/./panel/panel.php:497
 #: ../mpc-massive/./shortcodes/mpc_testimonial/mpc_testimonial.php:387
@@ -948,31 +965,31 @@ msgstr "Подсказка"
 
 #: ../mpc-massive/./panel/panel.php:131
 msgid "WC Add To Cart"
-msgstr ""
+msgstr "WC добавить в корзину"
 
 #: ../mpc-massive/./panel/panel.php:132 ../mpc-massive/./panel/panel.php:467
 msgid "WC Category"
-msgstr ""
+msgstr "WC категории"
 
 #: ../mpc-massive/./panel/panel.php:133
 msgid "WC Product"
-msgstr ""
+msgstr "WC продукт"
 
 #: ../mpc-massive/./panel/panel.php:134 ../mpc-massive/./panel/panel.php:466
 msgid "WC Carousel Categories"
-msgstr ""
+msgstr "WC карусель категорий"
 
 #: ../mpc-massive/./panel/panel.php:135 ../mpc-massive/./panel/panel.php:478
 msgid "WC Grid Categories"
-msgstr ""
+msgstr "WC сетка категорий"
 
 #: ../mpc-massive/./panel/panel.php:136
 msgid "WC Carousel Products"
-msgstr ""
+msgstr "WC карусель продуктов"
 
 #: ../mpc-massive/./panel/panel.php:137
 msgid "WC Grid Products"
-msgstr ""
+msgstr "WC сетка продуктов"
 
 #: ../mpc-massive/./panel/panel.php:139 ../mpc-massive/./panel/panel.php:509
 #: ../mpc-massive/./shortcodes/mpc_carousel_anything/mpc_carousel_anything.php:257
@@ -985,7 +1002,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_wc_carousel_categories/mpc_wc_carousel_categories.php:346
 #: ../mpc-massive/./shortcodes/mpc_wc_carousel_products/mpc_wc_carousel_products.php:501
 msgid "Navigation"
-msgstr ""
+msgstr "Навигация"
 
 #: ../mpc-massive/./panel/panel.php:140 ../mpc-massive/./panel/panel.php:510
 #: ../mpc-massive/./shortcodes/mpc_grid_posts/mpc_grid_posts.php:484
@@ -1001,11 +1018,11 @@ msgstr "Разбиение на страницы"
 #: ../mpc-massive/./shortcodes/mpc_snippets.php:224
 #: ../mpc-massive/./shortcodes/mpc_snippets.php:339
 msgid "Typography"
-msgstr ""
+msgstr "Категория"
 
 #: ../mpc-massive/./panel/panel.php:148
 msgid "Column"
-msgstr ""
+msgstr "Колонка"
 
 #: ../mpc-massive/./panel/panel.php:149 ../mpc-massive/./panel/panel.php:471
 #: ../mpc-massive/./shortcodes/mpc_cubebox/mpc_cubebox.php:235
@@ -1030,11 +1047,11 @@ msgstr ""
 
 #: ../mpc-massive/./panel/panel.php:156
 msgid "Row"
-msgstr ""
+msgstr "Строка"
 
 #: ../mpc-massive/./panel/panel.php:259
 msgid "Shortcodes"
-msgstr ""
+msgstr "Шорткоды"
 
 #: ../mpc-massive/./panel/panel.php:271
 msgid "Purchase Verification"
@@ -1042,7 +1059,7 @@ msgstr ""
 
 #: ../mpc-massive/./panel/panel.php:282 ../mpc-massive/./panel/panel.php:586
 msgid "Google API"
-msgstr ""
+msgstr "Google API"
 
 #: ../mpc-massive/./panel/panel.php:312
 msgid "Preset Previews Images"
@@ -1050,15 +1067,15 @@ msgstr ""
 
 #: ../mpc-massive/./panel/panel.php:323
 msgid "Save panel"
-msgstr ""
+msgstr "Сохранить панель"
 
 #: ../mpc-massive/./panel/panel.php:324
 msgid "Saving..."
-msgstr ""
+msgstr "Сохранение..."
 
 #: ../mpc-massive/./panel/panel.php:325
 msgid "Saved :)"
-msgstr ""
+msgstr "Сохранено :)"
 
 #: ../mpc-massive/./panel/panel.php:332
 #: ../mpc-massive/./params/mpc_content/mpc_content.php:48
@@ -1073,7 +1090,7 @@ msgstr ""
 #: ../mpc-massive/./panel/panel.php:415 ../mpc-massive/./panel/panel.php:423
 #: ../mpc-massive/./panel/panel.php:431
 msgid "on"
-msgstr ""
+msgstr "вкл"
 
 #: ../mpc-massive/./panel/panel.php:365 ../mpc-massive/./panel/panel.php:373
 #: ../mpc-massive/./panel/panel.php:381 ../mpc-massive/./panel/panel.php:390
@@ -1081,15 +1098,15 @@ msgstr ""
 #: ../mpc-massive/./panel/panel.php:415 ../mpc-massive/./panel/panel.php:423
 #: ../mpc-massive/./panel/panel.php:431
 msgid "off"
-msgstr ""
+msgstr "выкл"
 
 #: ../mpc-massive/./panel/panel.php:375
 msgid "Animations on Mobile"
-msgstr ""
+msgstr "Анимации на мобильной устройстве"
 
 #: ../mpc-massive/./panel/panel.php:383
 msgid "Parallax on Mobile"
-msgstr ""
+msgstr "Параллакс на мобильном устройстве"
 
 #: ../mpc-massive/./panel/panel.php:392
 msgid "Single JS/CSS file for All Shortcodes"
@@ -1124,7 +1141,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_wc_product/mpc_wc_product.php:1253
 #: ../mpc-massive/./shortcodes/mpc_wc_product/mpc_wc_product.php:1808
 msgid "Add To Cart"
-msgstr ""
+msgstr "Добавить в корзину"
 
 #: ../mpc-massive/./panel/panel.php:461
 #: ../mpc-massive/./shortcodes/mpc_carousel_anything/mpc_carousel_anything.php:105
@@ -1147,17 +1164,17 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_map/mpc_map.php:141
 #: ../mpc-massive/./shortcodes/mpc_map/mpc_map.php:297
 msgid "Map"
-msgstr ""
+msgstr "Карта"
 
 #: ../mpc-massive/./panel/panel.php:493
 #: ../mpc-massive/./shortcodes/mpc_qrcode/mpc_qrcode.php:253
 msgid "QR Code"
-msgstr ""
+msgstr "QR-код"
 
 #: ../mpc-massive/./panel/panel.php:498
 #: ../mpc-massive/./shortcodes/mpc_textblock/mpc_textblock.php:259
 msgid "Text Block"
-msgstr ""
+msgstr "Текстовый блок"
 
 #: ../mpc-massive/./panel/panel.php:504
 #: ../mpc-massive/./shortcodes/mpc_ihover_item/mpc_ihover_item.php:232
@@ -1170,7 +1187,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_chart/mpc_chart.php:597
 #: ../mpc-massive/./shortcodes/mpc_marker/mpc_marker.php:78
 msgid "Marker"
-msgstr ""
+msgstr "Маркер"
 
 #: ../mpc-massive/./panel/panel.php:526 ../mpc-massive/./panel/panel.php:534
 msgid "shortcodes-"
@@ -1209,19 +1226,19 @@ msgstr ""
 
 #: ../mpc-massive/./panel/panel.php:606 ../mpc-massive/./panel/panel.php:655
 msgid "Install all"
-msgstr ""
+msgstr "Установить всё"
 
 #: ../mpc-massive/./panel/panel.php:613 ../mpc-massive/./panel/panel.php:662
 msgid "Select Shortcode"
-msgstr ""
+msgstr "Выбрать шорткод"
 
 #: ../mpc-massive/./panel/panel.php:620 ../mpc-massive/./panel/panel.php:669
 msgid "Select all"
-msgstr ""
+msgstr "Выбрать всё"
 
 #: ../mpc-massive/./panel/panel.php:621 ../mpc-massive/./panel/panel.php:670
 msgid "Select none"
-msgstr ""
+msgstr "Ничего не выбрать"
 
 #: ../mpc-massive/./panel/panel.php:622
 msgid ""
@@ -1231,7 +1248,7 @@ msgstr ""
 
 #: ../mpc-massive/./panel/panel.php:623 ../mpc-massive/./panel/panel.php:672
 msgid "Install selected"
-msgstr ""
+msgstr "Установить выбранное"
 
 #: ../mpc-massive/./panel/panel.php:628
 msgid "Are you sure you want to delete selected presets?"
@@ -1239,15 +1256,15 @@ msgstr ""
 
 #: ../mpc-massive/./panel/panel.php:629 ../mpc-massive/./panel/panel.php:678
 msgid "Delete selected"
-msgstr ""
+msgstr "Удалить выбранное"
 
 #: ../mpc-massive/./panel/panel.php:630 ../mpc-massive/./panel/panel.php:679
 msgid "Deleting..."
-msgstr ""
+msgstr "Удаление..."
 
 #: ../mpc-massive/./panel/panel.php:631 ../mpc-massive/./panel/panel.php:680
 msgid "Deleted :)"
-msgstr ""
+msgstr "Удалено :)"
 
 #: ../mpc-massive/./panel/panel.php:640
 msgid ""
@@ -1311,15 +1328,15 @@ msgstr ""
 
 #: ../mpc-massive/./panel/panel.php:706
 msgid "Download"
-msgstr ""
+msgstr "Загрузить"
 
 #: ../mpc-massive/./panel/panel.php:707
 msgid "Downloading..."
-msgstr ""
+msgstr "Загружается..."
 
 #: ../mpc-massive/./panel/panel.php:708
 msgid "Downloaded :)"
-msgstr ""
+msgstr "Загрузилось :)"
 
 #: ../mpc-massive/./panel/panel.php:713
 msgid ""
@@ -1355,11 +1372,11 @@ msgstr "Создать новый"
 
 #: ../mpc-massive/./params/mpc_content/mpc_content.php:29
 msgid "Save Content"
-msgstr ""
+msgstr "Сохранить контент"
 
 #: ../mpc-massive/./params/mpc_content/mpc_content.php:30
 msgid "Load Content"
-msgstr ""
+msgstr "Загрузить контент"
 
 #: ../mpc-massive/./params/mpc_content/mpc_content.php:34
 msgid "Please choose content placement:"
@@ -1383,16 +1400,16 @@ msgstr ""
 #: ../mpc-massive/./params/mpc_typography/mpc_typography.php:20
 #: ../mpc-massive/./params/mpc_typography/mpc_typography.php:130
 msgid "Cancel"
-msgstr ""
+msgstr "Отиенить"
 
 #: ../mpc-massive/./params/mpc_content/mpc_content.php:44
 msgid "Content name:"
-msgstr ""
+msgstr "Наименование контента:"
 
 #: ../mpc-massive/./params/mpc_content/mpc_content.php:45
 #: ../mpc-massive/./params/mpc_preset/mpc_preset.php:38
 msgid "Accept"
-msgstr ""
+msgstr "Принять"
 
 #: ../mpc-massive/./params/mpc_content/mpc_content.php:49
 #: ../mpc-massive/./params/mpc_preset/mpc_preset.php:43
@@ -1405,7 +1422,7 @@ msgstr ""
 
 #: ../mpc-massive/./params/mpc_content/mpc_content.php:60
 msgid "User Contents"
-msgstr ""
+msgstr "Пользовательский контент"
 
 #: ../mpc-massive/./params/mpc_content/mpc_content.php:61
 msgid "Premade Contents"
@@ -1413,11 +1430,11 @@ msgstr ""
 
 #: ../mpc-massive/./params/mpc_content/mpc_content.php:74
 msgid "Saving content preset: "
-msgstr ""
+msgstr "Сохраняются настройки контента "
 
 #: ../mpc-massive/./params/mpc_content/mpc_content.php:75
 msgid "Deleting content preset: "
-msgstr ""
+msgstr "Удаляются настройки контента "
 
 #: ../mpc-massive/./params/mpc_content/mpc_content.php:76
 msgid "Are you sure you want to replace the content?"
@@ -1425,19 +1442,19 @@ msgstr ""
 
 #: ../mpc-massive/./params/mpc_divider/mpc_divider.php:12
 msgid "Advanced Settings"
-msgstr ""
+msgstr "Выбранные настройки"
 
 #: ../mpc-massive/./params/mpc_gradient/mpc_gradient.php:52
 msgid "From"
-msgstr ""
+msgstr "От"
 
 #: ../mpc-massive/./params/mpc_gradient/mpc_gradient.php:53
 msgid "To"
-msgstr ""
+msgstr "В"
 
 #: ../mpc-massive/./params/mpc_gradient/mpc_gradient.php:58
 msgid "Position: "
-msgstr ""
+msgstr "Позиция:"
 
 #: ../mpc-massive/./params/mpc_gradient/mpc_gradient.php:62
 msgid "Angle: "
@@ -1474,15 +1491,15 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_wc_product/mpc_wc_product.php:1734
 #: ../mpc-massive/./shortcodes/mpc_wc_product/mpc_wc_product.php:1776
 msgid "Select icon"
-msgstr ""
+msgstr "Выбранная иконка"
 
 #: ../mpc-massive/./params/mpc_icon/mpc_icon.php:13
 msgid "Search icons"
-msgstr ""
+msgstr "Поиск иконок"
 
 #: ../mpc-massive/./params/mpc_icon/mpc_icon.php:15
 msgid "Font Awesome"
-msgstr ""
+msgstr "Font Awesome"
 
 #: ../mpc-massive/./params/mpc_icon/mpc_icon.php:16
 msgid "Elegant Icons"
@@ -1518,15 +1535,15 @@ msgstr ""
 
 #: ../mpc-massive/./params/mpc_icon/mpc_icon.php:24
 msgid "MFG Lab Icons"
-msgstr ""
+msgstr "MFG Lab Icons"
 
 #: ../mpc-massive/./params/mpc_icon/mpc_icon.php:25
 msgid "Linear Icons (Free)"
-msgstr ""
+msgstr "Linear Icons (Free)"
 
 #: ../mpc-massive/./params/mpc_icon/mpc_icon.php:26
 msgid "IconMoon (Free)"
-msgstr ""
+msgstr "IconMoon (Free)"
 
 #: ../mpc-massive/./params/mpc_preset/mpc_preset.php:20
 msgid "Preview & Load Preset"
@@ -1538,7 +1555,7 @@ msgstr ""
 
 #: ../mpc-massive/./params/mpc_preset/mpc_preset.php:30
 msgid "Reload"
-msgstr ""
+msgstr "Перезагрузка"
 
 #: ../mpc-massive/./params/mpc_preset/mpc_preset.php:31
 msgid "Clear"
@@ -1546,7 +1563,7 @@ msgstr "Очистить"
 
 #: ../mpc-massive/./params/mpc_preset/mpc_preset.php:37
 msgid "Preset name:"
-msgstr ""
+msgstr "Название настройки:"
 
 #: ../mpc-massive/./params/mpc_preset/mpc_preset.php:53
 msgid "Presets previews"
@@ -1554,7 +1571,7 @@ msgstr ""
 
 #: ../mpc-massive/./params/mpc_preset/mpc_preset.php:54
 msgid "User Presets"
-msgstr ""
+msgstr "Пользовательские настройки"
 
 #: ../mpc-massive/./params/mpc_preset/mpc_preset.php:55
 msgid "Premade Presets"
@@ -1563,12 +1580,12 @@ msgstr ""
 #: ../mpc-massive/./params/mpc_preset/mpc_preset.php:68
 #: ../mpc-massive/./params/mpc_typography/mpc_typography.php:37
 msgid "Saving values for preset: "
-msgstr ""
+msgstr "Сохраняются значения для настройки "
 
 #: ../mpc-massive/./params/mpc_preset/mpc_preset.php:69
 #: ../mpc-massive/./params/mpc_typography/mpc_typography.php:38
 msgid "Deleting preset: "
-msgstr ""
+msgstr "Удаление настроек "
 
 #: ../mpc-massive/./params/mpc_preset/mpc_preset.php:70
 msgid "Clearing all shortcode fields."
@@ -2123,7 +2140,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_wc_product/mpc_wc_product.php:1500
 #: ../mpc-massive/./shortcodes/mpc_wc_product/mpc_wc_product.php:1588
 msgid "Enable"
-msgstr ""
+msgstr "Включить"
 
 #: ../mpc-massive/./shortcodes/mpc_accordion/mpc_accordion.php:435
 msgid "Auto Indent"
@@ -2168,19 +2185,19 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_progress/mpc_progress.php:466
 #: ../mpc-massive/./shortcodes/mpc_ribbon/mpc_ribbon.php:251
 msgid "Text"
-msgstr ""
+msgstr "Текст"
 
 #: ../mpc-massive/./shortcodes/mpc_accordion/mpc_accordion.php:476
 #: ../mpc-massive/./shortcodes/mpc_alert/mpc_alert.php:481
 #: ../mpc-massive/./shortcodes/mpc_snippets.php:428
 #: ../mpc-massive/./shortcodes/mpc_wc_product/mpc_wc_product.php:1206
 msgid "Border"
-msgstr ""
+msgstr "Граница"
 
 #: ../mpc-massive/./shortcodes/mpc_accordion/mpc_accordion.php:487
 #: ../mpc-massive/./shortcodes/mpc_accordion/mpc_accordion.php:499
 msgid "Hover - Border"
-msgstr ""
+msgstr "Граница при наведении курсора"
 
 #: ../mpc-massive/./shortcodes/mpc_accordion/mpc_accordion.php:489
 #: ../mpc-massive/./shortcodes/mpc_accordion/mpc_accordion.php:501
@@ -2248,11 +2265,11 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_wc_add_to_cart/mpc_wc_add_to_cart.php:999
 #: ../mpc-massive/./shortcodes/mpc_wc_category/mpc_wc_category.php:729
 msgid "Content"
-msgstr ""
+msgstr "Контент"
 
 #: ../mpc-massive/./shortcodes/mpc_accordion/mpc_accordion.php:511
 msgid "Title Icon"
-msgstr ""
+msgstr "Иконка заголовка"
 
 #: ../mpc-massive/./shortcodes/mpc_accordion/mpc_accordion.php:519
 #: ../mpc-massive/./shortcodes/mpc_alert/mpc_alert.php:453
@@ -2284,7 +2301,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_wc_add_to_cart/mpc_wc_add_to_cart.php:1009
 #: ../mpc-massive/./shortcodes/mpc_wc_add_to_cart/mpc_wc_add_to_cart.php:1010
 msgid "Hover"
-msgstr ""
+msgstr "При наведении курсора"
 
 #: ../mpc-massive/./shortcodes/mpc_accordion/mpc_accordion.php:519
 msgid "If you want to change the background after hover set it up below."
@@ -2293,16 +2310,16 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_accordion/mpc_accordion.php:563
 #: ../mpc-massive/./shortcodes/mpc_tabs/mpc_tabs.php:620
 msgid "Tab 1"
-msgstr ""
+msgstr "Закладка 1"
 
 #: ../mpc-massive/./shortcodes/mpc_accordion/mpc_accordion.php:564
 #: ../mpc-massive/./shortcodes/mpc_tabs/mpc_tabs.php:621
 msgid "Tab 2"
-msgstr ""
+msgstr "Закладка 2"
 
 #: ../mpc-massive/./shortcodes/mpc_accordion/mpc_accordion.php:570
 msgid "Add section"
-msgstr ""
+msgstr "Добавить выбранное"
 
 #: ../mpc-massive/./shortcodes/mpc_accordion/mpc_accordion.php:575
 msgid "Collapsible content blocks"
@@ -2432,7 +2449,7 @@ msgstr ""
 
 #: ../mpc-massive/./shortcodes/mpc_alert/mpc_alert.php:366
 msgid "Disable Icon"
-msgstr ""
+msgstr "Отключить иконку"
 
 #: ../mpc-massive/./shortcodes/mpc_alert/mpc_alert.php:368
 #: ../mpc-massive/./shortcodes/mpc_callout/mpc_callout.php:562
@@ -2509,7 +2526,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_wc_category/mpc_wc_category.php:828
 #: ../mpc-massive/./shortcodes/mpc_wc_product/mpc_wc_product.php:1603
 msgid "Disable"
-msgstr ""
+msgstr "Отключить"
 
 #: ../mpc-massive/./shortcodes/mpc_alert/mpc_alert.php:380
 msgid "Enable Dismiss"
@@ -3118,7 +3135,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1048
 #: ../mpc-massive/./shortcodes/mpc_testimonial/mpc_testimonial.php:277
 msgid "Layout Select"
-msgstr ""
+msgstr "Выбор расположения"
 
 #: ../mpc-massive/./shortcodes/mpc_callout/mpc_callout.php:466
 #: ../mpc-massive/./shortcodes/mpc_counter/mpc_counter.php:396
@@ -3143,7 +3160,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1067
 #: ../mpc-massive/./shortcodes/mpc_testimonial/mpc_testimonial.php:293
 msgid "Choose layout style."
-msgstr ""
+msgstr "Выберите стиль макета."
 
 #: ../mpc-massive/./shortcodes/mpc_callout/mpc_callout.php:494
 #: ../mpc-massive/./shortcodes/mpc_chart/mpc_chart.php:445
@@ -3845,7 +3862,7 @@ msgstr "Сортировать"
 #: ../mpc-massive/./shortcodes/mpc_wc_carousel_products/mpc_wc_carousel_products.php:428
 #: ../mpc-massive/./shortcodes/mpc_wc_grid_products/mpc_wc_grid_products.php:363
 msgid "Select posts sorting parameter."
-msgstr "Выберите сортировку записей по параметру"
+msgstr "Выберите сортировку записей по параметру."
 
 #: ../mpc-massive/./shortcodes/mpc_carousel_posts/mpc_carousel_posts.php:468
 #: ../mpc-massive/./shortcodes/mpc_grid_posts/mpc_grid_posts.php:409
@@ -6869,13 +6886,13 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1728
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1737
 msgid "Read More"
-msgstr "Редактировать больше"
+msgstr "Читать подробнее"
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1038
 #: ../mpc-massive/./shortcodes/mpc_wc_category/mpc_wc_category.php:550
 #: ../mpc-massive/./shortcodes/mpc_wc_product/mpc_wc_product.php:963
 msgid "Item Preset"
-msgstr ""
+msgstr "Настройка объекта"
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1044
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1066
@@ -6890,7 +6907,7 @@ msgstr "Запись"
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1075
 msgid "Thumbnail & Overlay"
-msgstr ""
+msgstr "Миниатюра и наложение"
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1077
 msgid "Check to disable thumbnail and its overlay in selected layout."
@@ -6898,7 +6915,7 @@ msgstr ""
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1086
 msgid "Content In Overlay"
-msgstr ""
+msgstr "Контент в наложении"
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1088
 msgid "Check to display post content inside overlay."
@@ -7011,7 +7028,7 @@ msgstr ""
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1216
 msgid "Disable Title"
-msgstr ""
+msgstr "Отключить заголовок"
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1220
 msgid "Check to disable title display."
@@ -7118,7 +7135,7 @@ msgstr ""
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1337
 msgid "Disable Excerpt"
-msgstr ""
+msgstr "Отключить выборку"
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1341
 msgid "Check to disable excerpt display."
@@ -7201,7 +7218,7 @@ msgstr ""
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1383
 msgid "Disable Vinette"
-msgstr ""
+msgstr "Отключить виньетирование"
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1387
 msgid "Check to disable vinette."
@@ -7213,7 +7230,7 @@ msgstr ""
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1435
 msgid "Disable Lightbox"
-msgstr ""
+msgstr "Отключить лайтбокс"
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1439
 msgid "Check to disable lightbox icon at thumbnail overlay."
@@ -7235,11 +7252,11 @@ msgstr ""
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1482
 msgid "Read More Icon"
-msgstr ""
+msgstr "Расширенное редактирование иконки"
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1493
 msgid "Disable Read More"
-msgstr ""
+msgstr "Отключить расширенное чтение"
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1497
 msgid "Check to disable read more icon at thumbnail overlay."
@@ -7332,7 +7349,7 @@ msgstr ""
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1732
 msgid "Disable Read More button"
-msgstr ""
+msgstr "Отключение кнопки расширенного чтения"
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:1736
 msgid "Check to disable Read More button displayed after expert section."
@@ -8483,11 +8500,11 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_wc_add_to_cart/mpc_wc_add_to_cart.php:981
 #: ../mpc-massive/./shortcodes/mpc_wc_add_to_cart/mpc_wc_add_to_cart.php:982
 msgid "Error"
-msgstr ""
+msgstr "Ошибка"
 
 #: ../mpc-massive/./shortcodes/mpc_wc_add_to_cart/mpc_wc_add_to_cart.php:988
 msgid "Disable Tooltip"
-msgstr ""
+msgstr "Отключить подсказку"
 
 #: ../mpc-massive/./shortcodes/mpc_wc_add_to_cart/mpc_wc_add_to_cart.php:992
 msgid "Switch to disable tooltip display."
@@ -8746,7 +8763,7 @@ msgstr ""
 #: ../mpc-massive/./shortcodes/mpc_wc_category/mpc_wc_category.php:554
 #: ../mpc-massive/./shortcodes/mpc_wc_product/mpc_wc_product.php:967
 msgid "Specify item preset."
-msgstr ""
+msgstr "Установите настройку объекта."
 
 #: ../mpc-massive/./shortcodes/mpc_wc_category/mpc_wc_category.php:560
 #: ../mpc-massive/./shortcodes/mpc_wc_product/mpc_wc_product.php:1005
@@ -8889,7 +8906,7 @@ msgstr ""
 
 #: ../mpc-massive/./shortcodes/mpc_wc_category/mpc_wc_category.php:746
 msgid "Disable Hover State"
-msgstr ""
+msgstr "Отключить состояние при наведении курсора"
 
 #: ../mpc-massive/./shortcodes/mpc_wc_category/mpc_wc_category.php:748
 msgid "Check to disable hover state (nothing will change after hover)."
