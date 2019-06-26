@@ -27,6 +27,11 @@ function mpc_init(){
 	load_plugin_textdomain( 'mpc', false, dirname( plugin_basename( __FILE__ ) ) . '/lang' ); 
 }
 
+add_action( 'plugins_loaded', 'dhvc_init' );
+function dhvc_init(){
+	load_plugin_textdomain( 'dhvc-form', false, dirname( plugin_basename( __FILE__ ) ) . '/lang' ); 
+}
+
 // add_action( 'plugins_loaded', function(){
 // 	load_plugin_textdomain( 'mpc', false, dirname(plugin_basename(__FILE__)) . '/lang' ) );
 // });

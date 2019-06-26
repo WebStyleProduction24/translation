@@ -350,7 +350,7 @@ msgstr "Автор URL"
 
 #: ../mpc-massive/./panel/extra/system-info.php:305
 msgid "The theme developers URL."
-msgstr "URL разработчика темы"
+msgstr "URL разработчика темы."
 
 #: ../mpc-massive/./panel/extra/system-info.php:310
 msgid "Child Theme"
@@ -1454,7 +1454,7 @@ msgstr "В"
 
 #: ../mpc-massive/./params/mpc_gradient/mpc_gradient.php:58
 msgid "Position: "
-msgstr "Позиция:"
+msgstr "Позиция: "
 
 #: ../mpc-massive/./params/mpc_gradient/mpc_gradient.php:62
 msgid "Angle: "
@@ -6862,15 +6862,15 @@ msgstr ""
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:298
 msgid "on "
-msgstr ""
+msgstr "на "
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:312
 msgid "in "
-msgstr ""
+msgstr "в "
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:321
 msgid "by "
-msgstr ""
+msgstr "рядом с "
 
 #: ../mpc-massive/./shortcodes/mpc_single_post/mpc_single_post.php:329
 msgid "Comments for "
